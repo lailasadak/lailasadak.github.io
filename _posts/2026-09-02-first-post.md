@@ -1,5 +1,3 @@
-layout: post
-title: “My First Blog Post” 
 Hi, welcome to my academic webpage! This site was created as part of the AI & Big Data in Cancer Biology course.
 My name is Laila Sadak and I am a biology major at the University of Memphis.
 I am expected to graduate in the spring of 2030. 
